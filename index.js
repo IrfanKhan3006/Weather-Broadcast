@@ -8,7 +8,7 @@ const searchField = document.querySelector(".search");
 const form = document.querySelector("form");
 
 // Initializing the target variable to an empty string
-let target = "";
+let target = "Delhi";
 
 // Function to fetch data from the API
 const fetchData = async (target) => {
